@@ -1,5 +1,12 @@
 package sample;
 
+class Demo
+{
+	public static void main(String args[])
+	{
+		System.out.println("hii");
+	}
+}
 public class Samp {
 	public static void main(String[] args)
 	{
